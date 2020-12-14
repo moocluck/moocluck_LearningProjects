@@ -10,6 +10,7 @@ An application that allows you to calculate integrals by the method of mean rect
 
 ## Social networks
 
-+ [Vk.com](https://vk.com/moocluck)
++ [VK](https://vk.com/moocluck)
 + [Steam](https://steamcommunity.com/id/mooc1uck/)
++ [instagram](https://www.instagram.com/moocluck/)
 
