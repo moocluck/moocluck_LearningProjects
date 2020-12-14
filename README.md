@@ -1,5 +1,5 @@
-# moocluck_LerningProjects
-This is a repository with projects created during training by Alkesandr Brazhnikov. 
+# moocluck_LearningProjects
+This is a repository with projects created during learning by Alkesandr Brazhnikov. 
 
 
 ## Projects
