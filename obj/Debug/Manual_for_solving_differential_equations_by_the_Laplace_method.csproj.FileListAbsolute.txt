@@ -1,0 +1,15 @@
+C:\Users\moocluck\Downloads\Manual-pz1-master\obj\Debug\Interop.WMPLib.dll
+C:\Users\moocluck\Downloads\Manual-pz1-master\obj\Debug\Manual_for_solving_differential_equations_by_the_Laplace_method.csproj.ResolveComReference.cache
+C:\Users\moocluck\Downloads\Manual-pz1-master\obj\Debug\Manual_for_solving_differential_equations_by_the_Laplace_method.Form1.resources
+C:\Users\moocluck\Downloads\Manual-pz1-master\obj\Debug\Manual_for_solving_differential_equations_by_the_Laplace_method.Form2.resources
+C:\Users\moocluck\Downloads\Manual-pz1-master\obj\Debug\Manual_for_solving_differential_equations_by_the_Laplace_method.Form3.resources
+C:\Users\moocluck\Downloads\Manual-pz1-master\obj\Debug\Manual_for_solving_differential_equations_by_the_Laplace_method.Form4.resources
+C:\Users\moocluck\Downloads\Manual-pz1-master\obj\Debug\Manual_for_solving_differential_equations_by_the_Laplace_method.Form5.resources
+C:\Users\moocluck\Downloads\Manual-pz1-master\obj\Debug\Manual_for_solving_differential_equations_by_the_Laplace_method.csproj.GenerateResource.cache
+C:\Users\moocluck\Downloads\Manual-pz1-master\obj\Debug\Manual_for_solving_differential_equations_by_the_Laplace_method.csproj.CoreCompileInputs.cache
+C:\Users\moocluck\Downloads\Manual-pz1-master\bin\Debug\Manual_for_solving_differential_equations_by_the_Laplace_method.exe.config
+C:\Users\moocluck\Downloads\Manual-pz1-master\bin\Debug\Manual_for_solving_differential_equations_by_the_Laplace_method.exe
+C:\Users\moocluck\Downloads\Manual-pz1-master\bin\Debug\Manual_for_solving_differential_equations_by_the_Laplace_method.pdb
+C:\Users\moocluck\Downloads\Manual-pz1-master\obj\Debug\Manual_for_solving_differential_equations_by_the_Laplace_method.Properties.Resources.resources
+C:\Users\moocluck\Downloads\Manual-pz1-master\obj\Debug\Manual_for_solving_differential_equations_by_the_Laplace_method.exe
+C:\Users\moocluck\Downloads\Manual-pz1-master\obj\Debug\Manual_for_solving_differential_equations_by_the_Laplace_method.pdb

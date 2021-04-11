@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manual_for_solving_differential_equations_by_the_Laplace_method", "Manual_for_solving_differential_equations_by_the_Laplace_method.csproj", "{88878AD0-C2D5-4B03-B36F-A13DDEB162DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88878AD0-C2D5-4B03-B36F-A13DDEB162DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88878AD0-C2D5-4B03-B36F-A13DDEB162DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88878AD0-C2D5-4B03-B36F-A13DDEB162DD}.Debug|x64.ActiveCfg = Debug|x64
+		{88878AD0-C2D5-4B03-B36F-A13DDEB162DD}.Debug|x64.Build.0 = Debug|x64
+		{88878AD0-C2D5-4B03-B36F-A13DDEB162DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88878AD0-C2D5-4B03-B36F-A13DDEB162DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88878AD0-C2D5-4B03-B36F-A13DDEB162DD}.Release|x64.ActiveCfg = Release|x64
+		{88878AD0-C2D5-4B03-B36F-A13DDEB162DD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53A20053-F2A8-4E7B-A1CE-04361F8BB19B}
+	EndGlobalSection
+EndGlobal
