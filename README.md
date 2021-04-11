@@ -3,6 +3,8 @@ This is a repository with projects created during learning by Alexander Brazhnik
 
 
 ## Projects
++ [Manual-on-the-definition-of-the-transfer-function-and-frequency-characteristics-of-ACS](https://github.com/moocluck/moocluck_LearningProjects/tree/Manual-on-the-definition-of-the-transfer-function-and-frequency-characteristics-of-ACS) | 
+An application that allows you to learn how to solve differential equations using the Laplace method
 
 + [Integral-Differential-Calc](https://github.com/moocluck/moocluck_LerningProjects/tree/Integral-Differential-Calc) | 
 An application that allows you to calculate integrals by the method of mean rectangles and find a numerical solution of differential equations by the Euler method
