@@ -1,0 +1,14 @@
+C:\Users\moocluck\source\repos\manual-pz2\bin\Release\manual-pz2.exe.config
+C:\Users\moocluck\source\repos\manual-pz2\bin\Release\manual-pz2.exe
+C:\Users\moocluck\source\repos\manual-pz2\bin\Release\manual-pz2.pdb
+C:\Users\moocluck\source\repos\manual-pz2\obj\Release\manual-pz2.csprojAssemblyReference.cache
+C:\Users\moocluck\source\repos\manual-pz2\obj\Release\manual_pz2.Form1.resources
+C:\Users\moocluck\source\repos\manual-pz2\obj\Release\manual_pz2.Properties.Resources.resources
+C:\Users\moocluck\source\repos\manual-pz2\obj\Release\manual_pz2.Table.resources
+C:\Users\moocluck\source\repos\manual-pz2\obj\Release\manual_pz2.Task1.resources
+C:\Users\moocluck\source\repos\manual-pz2\obj\Release\manual_pz2.Task2.resources
+C:\Users\moocluck\source\repos\manual-pz2\obj\Release\manual_pz2.Task3.resources
+C:\Users\moocluck\source\repos\manual-pz2\obj\Release\manual-pz2.csproj.GenerateResource.cache
+C:\Users\moocluck\source\repos\manual-pz2\obj\Release\manual-pz2.csproj.CoreCompileInputs.cache
+C:\Users\moocluck\source\repos\manual-pz2\obj\Release\manual-pz2.exe
+C:\Users\moocluck\source\repos\manual-pz2\obj\Release\manual-pz2.pdb
