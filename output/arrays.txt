@@ -1,0 +1,2 @@
+Inserted array elements: 0 1 2 3 4
+Sum of values: 4.0
